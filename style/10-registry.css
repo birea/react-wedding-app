@@ -1,0 +1,45 @@
+.gridContainer {
+	margin-top: 20px;
+	padding: 10px;
+}
+
+.registryHeader > h3 {
+	margin-top: 40px;
+	padding: 5px;
+	font-family: Open Sans;
+	font-size: 24px;
+	font-style: normal;
+	color: rgb(194,24,7);
+}
+
+.registryDetail > a {
+	width: 40%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.registryDetail > h2 {
+	margin-top: 10px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.registryDetail > h3 {
+	padding: 5px;
+	font-family: Merriweather;
+	font-size: 16px;
+	font-style:italic;
+	color: black;
+	margin-top: 10px;
+}
+
+.registryDetail > .weblink {
+	width: 40%;
+	height: auto;
+	padding: 10px;
+	font-family: "Open Sans";
+	font-size: 20px;
+	color: rgb(194, 24, 7);
+}
+

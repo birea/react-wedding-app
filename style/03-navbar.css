@@ -1,0 +1,15 @@
+/* NavBar Styling */
+
+.btn-default {
+	background-color: rgb(250, 229, 211);
+	color: black;
+	font-family: Open Sans;
+	font-size: 16px;
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-top: 20px;
+	padding: 5px;
+	width: 95px;
+	white-space: normal;
+	text-align: center;
+}

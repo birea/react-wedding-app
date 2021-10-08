@@ -1,0 +1,43 @@
+.datetime h2, 
+.ceremony h2, 
+.reception h2 {
+	font-family: "Open Sans";
+	font-size: 20px;
+	/*font-style: italic;*/
+	color: rgb(194,24,7);
+}
+
+.datetime h3,
+.ceremony h3,
+.reception h3 {
+	font-family: Merriweather;
+	font-size: 16px;
+	color: rgb(52, 73, 94);
+	margin-top: 10px;
+}
+
+.datetime {
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.ceremony {
+	padding: 10px;
+	margin-left: 10px;
+}
+
+.reception {
+	padding: 10px;
+	margin-left: 10px;
+}
+
+.homePhoto img {
+	width: 100%;
+    height: auto;
+	margin-top: 40px;
+	border-style: solid;
+	border-color: rgb(64,224,208);
+	border-width: 5px;
+	border-radius: 4px;
+}

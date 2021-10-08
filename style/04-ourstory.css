@@ -1,0 +1,31 @@
+.gridContainer {
+	margin-top: 20px;
+	margin-right: 0px;
+	padding: 10px;
+}
+
+.rowDetail {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+	padding: 20px;
+}
+
+.rowDetail h3 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.rowDetail h4 {
+	font-family: Merriweather;
+	font-size: 18px;
+	font-style: normal;
+	color: rgb(52, 73, 94);
+	vertical-align: middle;
+}
+
+img {
+	width: auto;
+    height: 230px;
+    margin-top:10px;
+}
