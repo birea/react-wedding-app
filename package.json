@@ -1,5 +1,5 @@
 {
-    "name": "wedding_app_2018",
+    "name": "wedding_app",
     "version": "1.0.0",
     "description": "A React/MongoDB interactive wedding app",
     "main": "index.js",
